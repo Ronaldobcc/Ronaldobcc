@@ -30,7 +30,7 @@
         
         
         
-   
+   ![Snake animation](https://github.com/Ronaldobcc/Ronaldobcc/blob/output/github-contribution-grid-snake.svg)
        
  
         
